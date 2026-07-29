@@ -72,18 +72,24 @@ Co-founded and engineered the core product: a suite of 3 websites and 2 apps for
 
 - **SAC Main Website**: the Student Affairs Council's official site
 - **SAC Nexus**: ECA-POR portal for managing Extra Co-curricular Activities & Positions of Responsibility
-- **NH-48**: restaurant website, React + Figma-to-code
 
-[SAC Website](https://sac.iitd.ac.in/) · [SAC Nexus](https://sac.iitd.ac.in/nexus/login) · [NH-48](https://nh-48-website.vercel.app/)
+[SAC Website](https://sac.iitd.ac.in/) · [SAC Nexus](https://sac.iitd.ac.in/nexus/login)
 
 <img src="assets/sac-preview.png" width="700"/>
 <img src="assets/nexus-preview.png" width="700"/>
-<img src="assets/nh48-preview.png" width="700"/>
-<!-- Save your 3 screenshots to assets/sac-preview.png, assets/nexus-preview.png, assets/nh48-preview.png -->
+<!-- Save your 2 screenshots to assets/sac-preview.png, assets/nexus-preview.png -->
 
 ---
 
 ## 🛠️ Other Builds
+
+### 🍽️ NH-48
+Restaurant website, built with React and a Figma-to-code workflow.
+
+[🌐 Website](https://nh-48-website.vercel.app/)
+
+<img src="assets/nh48-preview.png" width="700"/>
+<!-- Save your screenshot to assets/nh48-preview.png -->
 
 ### 🗂️ TaskFlow | Jira-Inspired Agile Project Manager
 A full-stack Kanban platform with role-based access control, JWT authentication, and REST APIs for secure multi-user project management, plus collaborative features like comments, notifications, and task assignment.
