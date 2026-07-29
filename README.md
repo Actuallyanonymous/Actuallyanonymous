@@ -1,15 +1,13 @@
 <div align="center">
 
-# Hey, I'm Pushkin 👋
+# Pushkin Mangla
 
-**B.Tech + M.Tech CSE Dual Degree @ IIT Delhi · ARRA Scholar**
-Building `My News My Report` @ B-Reporter · CTO @ Snaccit · SAC Technical Secretary
+**Computer Science @ IIT Delhi · Building Products That Matter**
+From civic-tech startups to research to institute infrastructure — I ship across the stack.
 
 <!-- TODO: swap in your real profile picture URL if different from your GitHub avatar -->
-<!-- TODO: add badges — LinkedIn, X/Twitter, portfolio site, email — replace # with real links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pushkin-mangla-a02098321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pushkinmangla55555@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushkinmangla55555@gmail.com)
 
 </div>
 
@@ -28,25 +26,23 @@ Building `My News My Report` @ B-Reporter · CTO @ Snaccit · SAC Technical Secr
 ## 🚀 Startups
 
 ### 📰 B-Reporter — *"My News My Report"*
-A civic/grievance reporting platform — website, mobile apps, and a companion Watch app, all built to get citizen reports directly to the right authorities.
+A civic/grievance reporting platform — website + mobile apps + a companion Watch app — built to get citizen reports directly to the right authorities.
+
+`NestJS` · `React` · `MySQL` · `Redis` · `Azure`
 
 - 🏅 2 patents · 1 publication · IIT-Delhi grant
 - 🤝 Collaborations with DRDO and the Women's Commission
 - 🌱 Part of the **IIT Delhi Venture Studio** accelerator
 
-[🌐 Website](https://b-reporter.com/) · [🤖 Android](https://play.google.com/store/apps/details?id=com.iitd.breporter3) · [🍎 iOS](https://apps.apple.com/in/app/my-news-my-report/id6744141391) · [⌚ Watch App](#) <!-- TODO: link when available -->
+[🌐 Website](https://b-reporter.com/) · [🤖 Android](https://play.google.com/store/apps/details?id=com.iitd.breporter3) · [🍎 iOS](https://apps.apple.com/in/app/my-news-my-report/id6744141391)
 
 <img src="assets/breporter-preview.png" width="700"/>
 <!-- Use your homepage screenshot here — save it to assets/breporter-preview.png in the repo -->
 
 <br>
 
-<sub>🎪 A project under this umbrella was showcased at the <b>IIT Delhi Open House 2025</b> (Makerspace), earning a Letter of Appreciation.</sub>
-
-<br>
-
 ### 🍔 Snaccit
-Co-founded and engineered the core product — a suite of 3 websites and 2 apps.
+Co-founded and engineered the core product — a suite of 3 websites and 2 apps for pre-ordering food and skipping the wait.
 
 [🌐 Main Site](https://www.snaccit.com/) · [🤝 Partners Portal](https://partners.snaccit.com/) · [🛠️ Admin Portal](https://admin.snaccit.com/) · [🤖 Android](https://play.google.com/store/apps/details?id=com.snaccit.app&hl=en) · [🍎 iOS](https://apps.apple.com/us/app/snaccit-pre-order-food/id6761626294)
 
@@ -55,13 +51,17 @@ Co-founded and engineered the core product — a suite of 3 websites and 2 apps.
 
 ---
 
-## 🏆 Awards & Research
+## 🏆 Research & Recognition
 
-| | |
-|---|---|
-| 🏅 **SURA Award** | Undergraduate research award — forest ecosystem resilience analysis using causal ML (Double ML framework, satellite data: Landsat kNDVI, MODIS, ERA5, CHIRPS) |
-| 🏅 **DISA Internship** | <!-- TODO: one-line description of what the DISA internship/project was about --> |
-| 🎪 **IIT Delhi Open House 2025** | Presented the DISA Internship project at the Makerspace showcase — received a Letter of Appreciation from the Faculty Incharge, IIT Delhi Makerspace |
+### 🌲 SURA Award — Undergraduate Research
+Forest ecosystem resilience analysis using causal ML, under Prof. Aaditeshwar Seth.
+`Double ML` · `Landsat kNDVI` · `MODIS` · `ERA5` · `CHIRPS`
+
+### 🛰️ DISA Internship, IIT Delhi — Design & Innovation Intern
+- Developed a scalable GEE pipeline to detect drought, flood, wildfire, and high-wind events using multi-source datasets
+- Designed a resistance–resilience framework to quantify forest recovery from extremes using kNDVI time-series analysis
+- Integrated multi-source forest masks (Union of GLC, Dynamic World, IndiaSat) for accurate land cover classification
+- 🎪 Showcased the project at the **IIT Delhi Open House 2025**, presenting it to faculty, researchers, institute leadership, and visitors — received a Letter of Appreciation from the Faculty Incharge, IIT Delhi Makerspace
 
 ---
 
@@ -71,33 +71,38 @@ Co-founded and engineered the core product — a suite of 3 websites and 2 apps.
 - **SAC Nexus** — ECA-POR portal for managing Extra Co-curricular Activities & Positions of Responsibility
 - **NH-48** — restaurant website, React + Figma-to-code
 
-<!-- TODO: add SAC Website / SAC Nexus links when public -->
-[SAC Website](#) · [SAC Nexus](#) · [NH-48](https://nh-48-website.vercel.app/)
+[SAC Website](https://sac.iitd.ac.in/) · [SAC Nexus](https://sac.iitd.ac.in/nexus/login) · [NH-48](https://nh-48-website.vercel.app/)
 
+<img src="assets/sac-preview.png" width="700"/>
+<img src="assets/nexus-preview.png" width="700"/>
 <img src="assets/nh48-preview.png" width="700"/>
-<!-- Use your homepage screenshot here — save it to assets/nh48-preview.png in the repo -->
+<!-- Save your 3 screenshots to assets/sac-preview.png, assets/nexus-preview.png, assets/nh48-preview.png -->
 
 ---
 
 ## 🛠️ Other Builds
 
-- 🗂️ **Kanban Board** — a Jira-style project/task management tool
-- 🎨 **Micro Vector Editor** — an MS Paint-like vector editing tool, built in Qt Creator
+### 🗂️ TaskFlow — Jira-Inspired Agile Project Manager
+- Architected a full-stack Kanban platform with role-based access control and customizable project workflows for teams
+- Implemented JWT authentication, REST APIs, and secure multi-user project management with role-based authorization
+- Built collaborative features including comments, notifications, task assignment, and granular project-level permissions
 
-<!-- TODO: add links/screenshots for these two -->
-[Kanban Board](#) · [Vector Editor](#)
+<!-- TODO: add your GitHub repo link for TaskFlow -->
+[View Code](https://github.com/Actuallyanonymous/COP-290-Task-Board)
+
+### 🎨 Vector Graphics Editor — C++ SVG Rendering Engine
+- Developed a C++ desktop vector graphics editor using Qt with interactive drawing, editing, and real-time SVG rendering
+- Implemented a custom XML/SVG parser and serializer in C++ without relying on third-party parsing libraries
+- Designed an object-oriented graphics engine using inheritance, polymorphism, and smart pointers for shape management
+
+<sub>Not deployed — no public repo yet</sub>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Also Working With
 
-<!-- TODO: trim/expand this list to match what you actually use across these projects -->
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 
@@ -105,6 +110,6 @@ Co-founded and engineered the core product — a suite of 3 websites and 2 apps.
 
 <div align="center">
 
-📫 **Reach out** — <!-- TODO: fill in a real CTA / email -->
+📫 **Reach out** — [pushkinmangla55555@gmail.com](mailto:pushkinmangla55555@gmail.com)
 
 </div>
