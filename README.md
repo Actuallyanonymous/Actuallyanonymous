@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Pushkin (King) 👋
+# Hey, I'm Pushkin 👋
 
 **B.Tech + M.Tech CSE Dual Degree @ IIT Delhi · ARRA Scholar**
 Building `My News My Report` @ B-Reporter · CTO @ Snaccit · SAC Technical Secretary
